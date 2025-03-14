@@ -1,0 +1,6 @@
+- 👋 Mi nombre es Gonzalo Vattino
+- 👀 Me interesa el derecho
+- ⚡ Mi hobbie es la electrónica
+- 🌱 Estoy aprendiendo C++, HTML, CSS y JS
+- 📫 Me pueden contactar mandando un mail a gonzalo.vattino.secu@gmail.com
+- 🧑🏻‍🎓 Cuenta estudiantil
