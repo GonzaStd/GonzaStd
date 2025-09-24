@@ -1,6 +1,6 @@
 - 👋 Mi name is Gonzalo Vattino
-- 👀 I'm interested on science
+- ⚛️ I'm interested on science
 - ⚡ My hobbie is electronics
-- 🌱 This year (2025) I'm learning C++, HTML, CSS y JS
+- 🌱 This year (2025) I'm learning C++, HTML, CSS and JS
 - 📫 You can contact me here: gonzalo.vattino.secu@gmail.com
 - 🧑🏻‍🎓 Student Account
