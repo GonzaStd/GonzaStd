@@ -1,6 +1,7 @@
 - 👋 Mi name is Gonzalo Vattino
-- ⚛️ I'm interested on science
-- ⚡ My hobbie is electronics
-- 🌱 This year (2025) I'm learning C, HTML, CSS and JS
+- ⚛️🔨🛡️ I'm interested on science and ethical hacking (red and blue team)
+- ⚡💻 My hobbies are electronics, electricity and anything related with computing and computers security.
+- 📗 I know Python, C, HTML, CSS, JS, Bash, MySQL, and maybe a little bit more.
+- 🌱 This year (2026) I'm learning Java
 - 📫 You can contact me here: gonzalo.vattino.secu@gmail.com
 - 🧑🏻‍🎓 Student Account
